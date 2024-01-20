@@ -32,5 +32,6 @@ generateSlogan("Will you give me a slogan?").then(response => {
   console.log(response.slogan);
   // "facilitate bricks-and-clicks communities"
 });
-Functions to complete
+
+** Functions to complete** 
 Update the getSlogan() and fullSession() functions to use async and await as well as try and catch. Note that these functions require you to log statements with console.log() and should continue to do so.
